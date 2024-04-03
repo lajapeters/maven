@@ -89,14 +89,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://172.31.7.144:8081/repository/maven-web-app-release/</url>
+	      <name>My_Maven_Releases</name>
+	      <url>http://172.31.31.49:8081/repository/My_Maven_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.7.144:8081/repository/maven-web-app-snapshot/</url>
+	      <name>My_Maven_SNAPSHOTS</name>
+	      <url>http://172.31.31.49:8081/repository/My_Maven_SNAPSHOTS/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
